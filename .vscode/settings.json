@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "iostream": "cpp",
+        "tuple": "cpp",
+        "ostream": "cpp",
+        "random": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "enabled"
+}
